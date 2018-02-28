@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "funsplash",
+    "description": "Fun way to browse photos from Unsplash.com.",
+    "slug": "funsplash",
+    "privacy": "public",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.4",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app-icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+    "bundleIdentifier": "com.tahirkusumo.funsplash",
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "com.tahirkusumo.funsplash"
+    }
+  }
+}

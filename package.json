@@ -1,0 +1,26 @@
+{
+  "name": "funsplash",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^23.0.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-23.0.0.tar.gz",
+    "react-native-elements": "^0.17.0",
+    "react-native-fit-image": "^1.5.3",
+    "react-native-parallax": "^0.3.0",
+    "react-native-root-modal": "^1.4.0",
+    "react-native-snap-carousel": "^3.2.3",
+    "react-navigation": "^1.0.0-beta.13",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "unsplash-js": "^4.6.0"
+  },
+  "devDependencies": {
+    "reactotron-react-native": "^1.12.3"
+  }
+}
